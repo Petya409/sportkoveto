@@ -1,7 +1,6 @@
 # Sportkövető
 
-Egyszerű, offline GPS-es aktivitáskövető Android alkalmazás (futás, séta, kerékpározás, túrázás).
+> **FEJLESZTÉS ALATT.** Ez egy személyes teszt alkalmazás, korántsem tökéletes,
+> és nem nyilvános használatra készült. Kérlek, ne töltsd le és ne telepítsd.
 
-Ez a tároló csak a kiadásokat (APK) tartalmazza. Letöltés: [Releases](../../releases/latest).
-
-Az alkalmazás magától értesít az új verzióról, és a letöltött fájlt SHA-256 ellenőrzőösszeggel ellenőrzi. Minden adat csak a telefonon, titkosítva tárolódik.
+Ez a tároló csak a saját telefonom automatikus frissítéséhez tartalmazza a kiadásokat.
